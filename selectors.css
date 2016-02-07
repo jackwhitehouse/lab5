@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+p {
+    color: green;
+    text-decoration:underline;
+    
+   
+}
+
+h1.alert {
+    font-size: 3em;
+}
+
+.alert {
+    color: red;
+  
+}
+
+#unique {
+    font-size: 0.8em;
+}
+
+

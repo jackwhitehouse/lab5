@@ -1,0 +1,55 @@
+body {
+    font-family: Comic Sans MS, Verdana, sans-serif;
+    background-color: lightblue;
+}
+
+
+h1 {
+    color: blue;
+    font-size: 4.0em;
+    font-weight: bold;
+}
+
+ul, ol {
+    border:5pt;
+    border-color:green;
+    border-style:dotted;
+    font-size: 0.8em;
+    color: grey;
+    text-indent:20px;
+    
+}
+
+h2 {
+    color: blue;
+    font-weight: bold;
+}
+
+p::before {
+    
+    content:"Note!: ";
+   
+   text-indent: 20px;
+}
+
+p::after {
+    content:url (tickmark.png);
+    }
+
+figcaption {
+    font-size:8pt;
+    font-weight:bold;
+}
+
+p.copyright-notice {
+    font-size: 0.8em;
+} 
+
+#special {
+    font-size: 0.8em;
+    color: yellowgreen;
+    font-style: italic;
+    border-left: 2px solid black;
+    margin-left: 40px;
+    padding-left: 10px;
+}
