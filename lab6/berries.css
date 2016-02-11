@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size:14pt;
+    
+}
+
+p {
+    text-align:center;
+    
+}
+
+h1, h2, h3 {
+    color: black;
+    text-align:center;
+    font-weight: bold;
+}
+
+table {
+    text-align:center;
+    border: 3px solid black;
+    }
+    
+    td.one {
+    background-color:aqua;
+    color:Black;
+    text-align:center;
+    font-family: Arial, Verdana, sans-serif;
+    font-size:20pt;
+    padding:10px;
+    }
+    
+    td.two {
+    background-color:yellow;
+    color:Black;
+    text-align:center;
+    font-family: Arial, Verdana, sans-serif;
+    font-size:20pt;
+    padding:10px;
+    }
+    
+    td.three {
+    background-color:pink;
+    color:Black;
+    text-align:center;
+    font-family: Arial, Verdana, sans-serif;
+    font-size:20pt;
+    padding:10px;
+    }
+    
+    
+
+
+
+
